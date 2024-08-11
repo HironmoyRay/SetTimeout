@@ -29,7 +29,7 @@ for(let letter of sortedLetter){
 
 
 for(let val of sortedVal){
-    console.log(`${}`);
+    // console.log(`${}`);
     
 }
 
